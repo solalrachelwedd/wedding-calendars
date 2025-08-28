@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mariage Solal//FR
+
+BEGIN:VEVENT
+UID:mairie-solal@example.com
+DTSTAMP:20250713T100000Z
+DTSTART:20251215T150000Z
+DTEND:20251215T160000Z
+SUMMARY:Mariage Rachel&Solal
+LOCATION:6 Rue Drouot 75009 Paris France
+DESCRIPTION:Il s'agit de l'horaire de debut de cérémonie Itinéraire Waze:https://waze.com/ul/hu09wj2bpt
+END:VEVENT
+
+BEGIN:VEVENT
+UID:houppa-solal@example.com
+DTSTAMP:20250713T100000Z
+DTSTART:20251224T160000Z
+DTEND:20251224T230000Z
+SUMMARY:Houppa Rachel&Solal
+LOCATION:HaOgen Street 5 Hadera Israel
+DESCRIPTION: Itinéraire Waze: https://waze.com/ul?q=HaOgen%20Street%205%20Hadera%20Israel&navigate=yes
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chabbat-solal@example.com
+DTSTAMP:20250713T100000Z
+DTSTART:20251226T160000Z
+DTEND:20251227T220000Z
+SUMMARY:Chabbat Hatan Rachel&Solal
+LOCATION:David Citadel Hotel King David Street 7 Jerusalem Israel
+DESCRIPTION:Itinéraire Waze: https://waze.com/ul?q=David%20Citadel%20Hotel%20King%20David%20Street%207%20Jerusalem%20Israel&navigate=yes
+END:VEVENT
+
+END:VCALENDAR
